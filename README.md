@@ -1,7 +1,12 @@
-# Guessing Game by Khawar Khan
+# Number Guessing Game
 
 Welcome to the "Guessing Game" created by Khawar Khan. Test your guessing skills and try to guess the correct number!
 
+## Prerequisites
+- PHP installed on your machine.
+- XAMPP installed on your machine. 
+- A web server (e.g., Apache) to host the PHP files.
+  
 ## How to Play
 
 1. **Access the Game:**
@@ -45,3 +50,12 @@ Welcome to the "Guessing Game" created by Khawar Khan. Test your guessing skills
    * Open your web browser and go to:
    ```plaintext
    http://localhost/Guessing-Game-PHP/guess.php
+
+## Troubleshooting
+  If you encounter any issues, please check the following:
+  * Ensure that XAMPP's Apache server is running.
+  * Verify the correct path in the browser URL, including the folder name.
+  * Check for any error messages in the XAMPP logs.
+
+## Author
+Khawar Khan
