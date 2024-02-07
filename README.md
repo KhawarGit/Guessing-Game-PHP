@@ -29,6 +29,19 @@ Welcome to the "Guessing Game" created by Khawar Khan. Test your guessing skills
 
 ## How to Run
 
-- Clone the repository:
-  ```bash
-  
+1. Clone the Repository:
+   ```bash
+   git clone https://github.com/KhawarGit/Guessing-Game-PHP.git
+2. Navigate to the Program:
+   ```bash
+   cd Guessing-Game-PHP
+3. Copy Repository in XAMPP's htdocs (if not cloned in htdocs):
+   ```bash
+   #for Windows
+   xcopy /E Guessing-Game-PHP C:\xampp\htdocs\
+   #for Linux/Unix
+   cp -r Guessing-Game-PHP C:\xampp\htdocs\
+4. Access the Program:
+   * Open your web browser and go to:
+   ```plaintext
+   http://localhost/Guessing-Game-PHP/guess.php
