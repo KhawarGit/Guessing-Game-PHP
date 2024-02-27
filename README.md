@@ -59,3 +59,5 @@ Welcome to the "Guessing Game" created by Khawar Khan. Test your guessing skills
 
 ## Author
 Khawar Khan
+<br />
+LinkedIn: www.linkedin.com/in/khawar-khan
